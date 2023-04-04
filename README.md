@@ -23,7 +23,7 @@ To run the scraper, simply run the following command:
 ```
 python main.py
 ```
-The scraper will scrape the data from the website and save it to a file named data.csv in the project directory.
+The scraper will scrape the data from the website and save it to a file named scraping_file.csv in the project directory.
 
 ## Contributing
 
